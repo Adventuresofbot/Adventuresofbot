@@ -15,8 +15,8 @@
 **Hi, I am Arya, I am a Computer engineer  of open source projects and robotic work at Mumbai, mainly experienced with Python, Scala and C++. I like developing open source softwares. My current main open source project is [Liantichess](https://github.com/SriMethan/Liantichessh), An [Antichess](https://lichess.org/variant/antichess) Variants website forked from [PyChess.org](https://github.com/gbtami/pychess-variants).**
 
 ## Projects
-<a href="https://github.com/SriMethan/Liantichess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srimethan&repo=liantichess&show_owner=true&theme=radical" />
+<a href="https://github.com/Adventuresofbot/LiBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adventuresofbot&repo=LiBot&show_owner=true&theme=radical" />
 </a>
 
 ## Contributions
@@ -29,11 +29,11 @@
 
 ## Stats
 
-<a href="https://github.com/srimethan/srimethan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srimethan&show_icons=true&include_all_commits=false&line_height=33&theme=radical" />
+<a href="[https://github.com/Adventuresofbot/Adventuresofbot]">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adventuresofbot&show_icons=true&include_all_commits=false&line_height=33&theme=radical" />
 </a>
-<a href="https://coderstats.net/github/#srimethan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srimethan&hide=ruby&theme=radical" />
+<a href="https://coderstats.net/github/#Adventuresofbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adventuresofbot&hide=ruby&theme=radical" />
 </a>
 
 ## Technologies
