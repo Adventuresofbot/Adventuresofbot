@@ -14,10 +14,10 @@
 
 <h3> 
 <a href="https://github.com/Adventuresofbot/Adventuresofbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srimethan&show_icons=true&include_all_commits=false&line_height=33&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adventuresofbot&show_icons=true&include_all_commits=false&line_height=33&theme=algolia" />
 </a>
-<a href="https://coderstats.net/github/#srimethan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srimethan&hide=ruby&theme=radical&algolia" />
+<a href="https://coderstats.net/github/#Adventuresofbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adventuresofbot&hide=ruby&theme=radical&algolia" />
 </a>
 </h3>
 
