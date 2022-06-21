@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arya (Adventuresofbot)</h1>
+<h1 align="center">Hi 👋, I'm Arya (Adventuresfcoding)</h1>
 <h2 align="center">A passionate frontend developer from India working in mumbai</h2>
 
 - 📫 How to reach me **https://lichess.org/@/Realboy9000**
@@ -13,11 +13,11 @@
 </p>
 
 <h3> My status </h3>
-<a href="https://github.com/Adventuresofbot/Adventuresofbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adventuresofbot&show_icons=true&include_all_commits=true&line_height=33&theme=algolia" />
+<a href="https://github.com/Adventuresofcoding/Adventuresofcoding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adventuresofcoding&show_icons=true&include_all_commits=true&line_height=33&theme=algolia" />
 </a>
-<a href="https://coderstats.net/github/#Adventuresofbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adventuresofbot&hide=ruby&theme=radical&algolia" />
+<a href="https://coderstats.net/github/#Adventuresofcoding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adventuresofcoding&hide=ruby&theme=radical&algolia" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
